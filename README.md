@@ -25,6 +25,8 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 - Organização de layout
 - Responsividade para dispositivos móveis
 
+🔗 Acesse o projeto online: https://brunorael.github.io/Projeto-Pet/
+
 ## 📸 Preview
 
 <img src="./assets/desktop.png">
